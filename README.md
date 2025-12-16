@@ -11,8 +11,6 @@ This just converts files to psf format with freetype, nothing else.
 >
 > No matter the amount of warnings you get the output file you have defined will be created either way, the warnings just tell you that the output file doesnt have 100% of the charset but only 95%, which i would hope is plenty - otherwise i guess you can try solving all the warnings
 
-> 
-
 ## Usage
 
 ### Mandatory
